@@ -8,8 +8,8 @@ Focused on high-performance systems and immersive gameplay mechanics. Specializi
 | :--- | :--- |
 | **Software Architecture** | High-performance C++, System Design, Scalable Logic |
 | **Game Development** | Physics Engines, Real-time Rendering, Asset Pipelines |
-| **Hardware & Systems** | Memory Management, Embedded Systems, RISC-V |
+| **Hardware & Systems** | Memory Management, Embedded Systems |
 | **Web Engineering** | API Mesh, Distributed Systems, Modern Frontend stacks |
 
 ### Core Stack
-`C++` `C#` `Unity` `Python` `Rust` `TypeScript` `React` `Node.js` `SQL` `Docker`
+`C++` `C#` `Unity` `Python` `HTMK` `CSS` `JS`
