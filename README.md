@@ -1,16 +1,15 @@
-## Hi there 👋
+# Tristan Davin Dakara
+Technical Architect | Systems & Game Developer
 
-<!--
-**TDD131/TDD131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Focused on high-performance systems and immersive gameplay mechanics. Specializing in bridging the gap between hardware constraints and software elegance.
 
-Here are some ideas to get you started:
+### Technical Disciplines
+| Discipline | Strategic Focus |
+| :--- | :--- |
+| **Software Architecture** | High-performance C++, System Design, Scalable Logic |
+| **Game Development** | Physics Engines, Real-time Rendering, Asset Pipelines |
+| **Hardware & Systems** | Memory Management, Embedded Systems, RISC-V |
+| **Web Engineering** | API Mesh, Distributed Systems, Modern Frontend stacks |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Core Stack
+`C++` `C#` `Unity` `Python` `Rust` `TypeScript` `React` `Node.js` `SQL` `Docker`
