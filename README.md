@@ -12,4 +12,5 @@ Focused on high-performance systems and immersive gameplay mechanics. Specializi
 | **Web Engineering** | API Mesh, Distributed Systems, Modern Frontend stacks |
 
 ### Core Stack
-`C++` `C#` `Unity` `Python` `HTMK` `CSS` `JS`
+`C++` `C#` `Python` `HTML` `CSS` `JS`
+`Blender` `Unity 6`
