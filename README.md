@@ -70,7 +70,7 @@
     <td style="vertical-align: top;">
       <h3 style="margin-bottom: 6px;">HELXAID</h3>
       <p style="margin-top: 0; line-height: 1.6;">
-        Pinned project. (Optional: add 1–2 lines describing what it does and what you built.)
+        A modular, high-performance desktop utility suite designed for gamers and power users. Instead of running multiple scattered applications, HELXAID provides a centralized, hardware-accelerated control layer for launching games, tuning CPU performance, managing media, and automating inputs.
       </p>
       <p style="margin-top: 10px;">
         <a href="https://github.com/TDD131/HELXAID">Repository</a>
