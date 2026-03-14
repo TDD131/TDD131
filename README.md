@@ -15,10 +15,10 @@
       <img alt="GitHub" src="https://img.shields.io/badge/GitHub-TDD131-111111?style=for-the-badge&logo=github&logoColor=white">
     </a>
     <a href="https://tristandavind.vercel.app/">
-      <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-tristandavind.vercel.app-111111?style=for-the-badge&logo=vercel&logoColor=white">
+      <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-tristandavind.vercel.app-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white">
     </a>
     <a href="mailto:tristandavind@gmail.com">
-      <img alt="Email" src="https://img.shields.io/badge/Email-tristandavind@gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white">
+      <img alt="Email" src="https://img.shields.io/badge/Email-tristandavind%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
   </p>
 </div>
