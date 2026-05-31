@@ -110,6 +110,6 @@
 <hr />
 
 <p align="center" style="font-size: 12px;">
-  Portfolio: <a href="https://tristandavind.vercel.app/">tristandavind.vercel.app</a> ·
+  Portfolio: <a href="https://tristandavind.vercel.app/">tristandavind.my.id</a> ·
   Contact: <a href="mailto:tristandavind@gmail.com">tristandavind@gmail.com</a>
 </p>
